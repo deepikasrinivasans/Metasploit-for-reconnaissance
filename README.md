@@ -19,6 +19,10 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 
 Open terminal and try execute some kali linux commands
+```
+NAME : DEEPIKA S
+REGISTER NUMBER : 212222230028
+```
 
 ## EXECUTION STEPS AND ITS OUTPUT:
 Find out the ip address of the attackers system
